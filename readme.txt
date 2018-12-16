@@ -1,4 +1,4 @@
-fist line.
+My fist line.
 learn git.
 vim .
-insert.
+insert a row.
